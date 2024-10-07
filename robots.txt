@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orsperic.github.io/sitemap.html.gz
+Sitemap: https://orsperic.github.io/app/sitemap.html.gz
+Sitemap: https://orsperic.github.io/assets/sitemap.html.gz
+Sitemap: https://orsperic.github.io/css/sitemap.html.gz
+Sitemap: https://orsperic.github.io/data/sitemap.html.gz
+Sitemap: https://orsperic.github.io/includes/sitemap.html.gz
+Sitemap: https://orsperic.github.io/item/sitemap.html.gz
+Sitemap: https://orsperic.github.io/src/sitemap.html.gz
